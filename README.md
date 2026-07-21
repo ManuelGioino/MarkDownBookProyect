@@ -1,9 +1,8 @@
 # Medio Ambiente
 
-Webhook test from NexHub.
+Webhook test 
 
-- Betelu Gallipoli Lucia
-- García Rosselli Facundo
+-Bautista Dhipolito
 - Gioino Juan Manuel
 
 [medioambiente.md](https://github.com/ManuelGioino/MarkDownBookProyect/blob/main/medioambiente.md)
